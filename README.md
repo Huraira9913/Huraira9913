@@ -1,52 +1,62 @@
-# Muhammad AbuHuraira
+# Muhammad Abu Huraira
 
-**Data Scientist in Progress → Senior Data Scientist | Machine Learning · Deep Learning · AI · LLM Infrastructure**
+**Aspiring Data Scientist → Senior Data Scientist**  
+Machine Learning · Deep Learning · AI · LLM Infrastructure
 
-[GitHub](https://github.com/Huraira9913) • [LinkedIn](https://www.linkedin.com/) • Email (add your email)
+[GitHub](https://github.com/Huraira9913) • [Email](mailto:hurairacoder@gmail.com)
 
-> Building robust, reproducible data science solutions — from clean data pipelines and thorough EDA to production-ready ML/DL models and modern LLM applications. Passionate about experiment tracking, model evaluation, and turning data into reliable insights.
+> Building robust, reproducible data science solutions — from clean data pipelines and thorough EDA to production-ready ML/DL models and modern LLM applications. Focused on experiment tracking, model evaluation, and turning data into reliable insights.
+
+---
 
 ### 🚀 Featured Projects
 
-| Project | What it does | Stack |
-|---|---|---|
-| **machine-learning-portfolio** | 15+ end-to-end supervised & unsupervised ML projects with Streamlit demos (churn, fraud detection, regression, clustering, classification) | Python, scikit-learn, Pandas, NumPy, Streamlit |
-| **deep-learning-portfolio** | CNN, RNN, LSTM & ANN projects for computer vision and NLP (face-mask detection, sentiment analysis, next-word prediction) | TensorFlow, Keras, OpenCV, Streamlit |
-| **rag-llm-notes-and-demos** | Retrieval-Augmented Generation pipelines, vector stores, and simple agentic workflows | LangChain, FAISS/Chroma, FastAPI, OpenAI-compatible APIs |
-| **mlops-agentic-pipelines** | Reproducible experiment tracking, testing, Dockerized pipelines, and basic deployment patterns | MLflow-style tracking, pytest, Docker, DVC concepts |
-| **pandas-numpy-eda-workshop** | Hands-on fundamentals: NumPy, Pandas, data cleaning, feature engineering, EDA & visualization | NumPy, Pandas, Matplotlib, Seaborn, Jupyter |
-| **trading-signal-ml** | Time-series feature engineering, regime detection, and ensemble signal generation for markets | Pandas, scikit-learn, technical indicators |
-| **healthcare-ml-pipeline** | End-to-end medical prediction pipelines (diabetes, heart disease, Parkinson) with evaluation | scikit-learn, imbalanced-learn, Streamlit |
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [machine-learning-portfolio](https://github.com/Huraira9913/machine-learning-portfolio) | End-to-end supervised & unsupervised ML projects (regression, classification, fraud detection, clustering) with evaluation | Python, scikit-learn, Pandas, NumPy |
+| [deep-learning-portfolio](https://github.com/Huraira9913/deep-learning-portfolio) | CNN, RNN, LSTM & ANN projects for computer vision and NLP | TensorFlow, Keras |
+| [rag-llm-notes-and-demos](https://github.com/Huraira9913/rag-llm-notes-and-demos) | Retrieval-Augmented Generation pipelines and simple LLM demos | LangChain, FAISS, sentence-transformers |
+| [trading-signal-ml](https://github.com/Huraira9913/trading-signal-ml) | Time-series feature engineering and ensemble signal generation | Pandas, scikit-learn |
+| [model-deployment-fastapi](https://github.com/Huraira9913/model-deployment-fastapi) | Packaging and serving scikit-learn models with FastAPI | FastAPI, scikit-learn, joblib |
+| [healthcare-ml-pipeline](https://github.com/Huraira9913/healthcare-ml-pipeline) | Medical prediction pipelines (diabetes, heart disease, Parkinson) | scikit-learn, imbalanced-learn |
+| [pandas-numpy-eda-workshop](https://github.com/Huraira9913/pandas-numpy-eda-workshop) | Fundamentals of NumPy, Pandas, data cleaning, EDA & visualization | NumPy, Pandas, Matplotlib, Seaborn |
+| [python-ds-algorithms](https://github.com/Huraira9913/python-ds-algorithms) | Data structures & algorithms focused on Data Science interviews | Python |
+
+---
 
 ### 🛠️ Technical Skills
 
 **Languages & Data**  
-`Python` `SQL` `PostgreSQL` `MongoDB` `NumPy` `Pandas`
+`Python` `SQL` `NumPy` `Pandas`
 
 **Machine Learning**  
-`scikit-learn` `Feature Engineering` `Model Selection` `Hyperparameter Tuning` `Cross-Validation` `Imbalanced Learning`
+`scikit-learn` `Feature Engineering` `Model Evaluation` `Cross-Validation` `Imbalanced Learning`
 
 **Deep Learning & AI**  
-`TensorFlow` `Keras` `PyTorch` `CNN` `RNN` `LSTM` `Transformers` `Transfer Learning`
+`TensorFlow` `Keras` `CNN` `RNN` `LSTM`
 
-**LLMs & Agents**  
-`LangChain` `RAG` `Prompt Engineering` `Vector Databases` `FastAPI` `Streamlit`
+**LLMs & Retrieval**  
+`LangChain` `RAG` `FAISS` `sentence-transformers` `Prompt Engineering`
 
-**MLOps & Engineering**  
-`Git` `Docker` `pytest` `Experiment Tracking` `CI concepts` `Jupyter` `Reproducibility`
+**Deployment & Tools**  
+`FastAPI` `Streamlit` `Docker` `Git` `Jupyter` `pytest`
 
-### 📊 GitHub Stats & Activity
+---
+
+### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Huraira9913&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Huraira9913&layout=compact&theme=tokyonight)
 
-*(Contribution graph and activity appear automatically on your profile)*
+---
 
 ### 📫 Connect
 
 Actively building skills toward Senior Data Scientist roles focused on Machine Learning, Deep Learning, and LLM infrastructure.  
 Open to collaborations, feedback, and opportunities.
 
+Email: hurairacoder@gmail.com
+
 ---
 
-*All projects contain original, functional code. No fabricated achievements, certificates, or statistics.*
+*All projects contain original code. No fabricated achievements or statistics.*
